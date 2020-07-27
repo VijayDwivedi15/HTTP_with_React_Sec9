@@ -6,7 +6,9 @@
     box-shadow: 0 2px 3px #ccc;
     margin: 10px;
     box-sizing: border-box;
+    background-color: linen;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 .Post:hover,

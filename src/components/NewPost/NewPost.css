@@ -4,6 +4,8 @@
     border: 1px solid #eee;
     box-shadow: 0 2px 3px #ccc;
     text-align: center;
+    background-color: darkgray;
+    border-radius: 10px;
 }
 
 .NewPost label {
@@ -29,9 +31,9 @@
     margin: 5px 0;
     padding: 10px;
     font: inherit;
-    border: 1px solid #fa923f;
+    border: 1px solid red;
     background-color: transparent;
-    color: #fa923f;
+    color: brown;
     cursor: pointer;
 }
 
